@@ -1,4 +1,4 @@
-package hello.chatTest;
+package hello.chatTest.Repository;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Repository;

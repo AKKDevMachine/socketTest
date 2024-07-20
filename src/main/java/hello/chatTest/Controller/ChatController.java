@@ -1,5 +1,6 @@
-package hello.chatTest;
+package hello.chatTest.Controller;
 
+import hello.chatTest.Repository.ChatMessage;
 import lombok.RequiredArgsConstructor;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.simp.SimpMessageSendingOperations;

@@ -1,4 +1,4 @@
-package hello.chatTest;
+package hello.chatTest.Repository;
 
 import lombok.Getter;
 import lombok.Setter;
